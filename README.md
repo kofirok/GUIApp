@@ -2,7 +2,8 @@
  ## Khalid Kofiro
 
  This is a Java program that demonstrates how to count the occurrences of each word in a file and print the results.
-
+ 
+![Gui Application](images/GUIApp.png)
 # Classes
  * WordCounter.java: The main class that takes in the file as an input and prints out the amount of occurances for each word.
  StreamFile.java -The StreamFile class contains the methods for counting the occurrences of each word in a file and printing the results. The printResults method takes a filename as a parameter and reads the contents of the file, counting the occurrences of each word. It throws an IOException if an error occurs while reading the file.
@@ -21,5 +22,6 @@
  * Compile the Java code by running the command: javac WordCounter.java.
  * Run the program by running the command: java WordCounter.
  * The program will read the contents of the file "wordcounter.txt" in the same directory and print the results of the word count.
+
 
  Enjoy!
