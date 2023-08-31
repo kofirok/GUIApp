@@ -2,8 +2,10 @@
  ## Khalid Kofiro
 
  This is a Java program that demonstrates how to count the occurrences of each word in a file and print the results.
-
- <img src="images/GUIApp.png" alt="GUI Application" width="200"/>
+ 
+ <div style="text-align:center">
+  <img src="images/GUIApp.png" alt="GUI Application" width="450"/>
+</div>
  
 # Classes
  * WordCounter.java: The main class that takes in the file as an input and prints out the amount of occurances for each word.
